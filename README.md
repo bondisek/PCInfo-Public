@@ -1,0 +1,2 @@
+# PCInfo-Public
+Release repo
