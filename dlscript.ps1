@@ -1,6 +1,6 @@
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
-$url = "https://github.com/bondisek/PCInfoApp/raw/refs/heads/master/Package/PCInfo.zip"
+$url = "https://github.com/bondisek/PCInfo-Public/releases/download/v1.0/PCInfo.zip"
 $zip = "$env:TEMP\PCInfo.zip"
 $extractPath = "$env:TEMP\PCInfo"
 $exePath = "$extractPath\PCInfo.exe"
